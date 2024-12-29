@@ -115,8 +115,7 @@ Here is how the application looks and works:
 **Uploading multiple audio files simultaneously:**
 ![Screenshot 2024-12-29 173812](https://github.com/user-attachments/assets/8ddca363-4142-4e5b-8547-017e827da971)
 
-**Processing Indicator -> The app displays a spinner while the AI processes the uploaded files.
-Playback and Download:**
+**Processing Indicator -> The app displays a spinner while the AI processes the uploaded files:**
 ![Screenshot 2024-12-29 173820](https://github.com/user-attachments/assets/beca9455-960f-46e5-8849-9a6674254d28)
 
 **Listen to the separated stems directly in the app.
