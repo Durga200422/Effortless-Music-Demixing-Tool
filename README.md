@@ -175,12 +175,12 @@ Implemented robust error-handling mechanisms to identify and notify users of iss
 #### Dependency Challenges with Spleeter:
 
 -   Earlier, we explored Spleeter, another open-source model.
--   However, due to system capability issues, such as hardware limitations and dependency complexities, we could not achieve the desired performance.
+-   However, due to system capability issues, such as hardware limitations and dependency complexities, i could not achieve the desired performance.
 #### File Format Conversion:
 
 -   While torchaudio is the default library for conversion, it occasionally fails.
 
--   To address this, we integrated pydub as a fallback for reliable WAV conversion.
+-   To address this, i integrated pydub as a fallback for reliable WAV conversion.
 
     #### Why WAV?
 
