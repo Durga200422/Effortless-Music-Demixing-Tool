@@ -109,17 +109,19 @@ Start the Streamlit server
 
 Here is how the application looks and works:
 
-**Upload Screen:**
+**Screen Looks Like:**
+![Screenshot 2024-12-29 173613](https://github.com/user-attachments/assets/504f0436-2ec8-4971-a740-9694eb11f5dc)
 
-**Upload multiple audio files simultaneously.
-Processing Indicator:**
+**Uploading multiple audio files simultaneously:**
+![Screenshot 2024-12-29 173812](https://github.com/user-attachments/assets/8ddca363-4142-4e5b-8547-017e827da971)
 
-**The app displays a spinner while the AI processes the uploaded files.
+**Processing Indicator -> The app displays a spinner while the AI processes the uploaded files.
 Playback and Download:**
+![Screenshot 2024-12-29 173820](https://github.com/user-attachments/assets/beca9455-960f-46e5-8849-9a6674254d28)
 
 **Listen to the separated stems directly in the app.
 Download each stem in WAV format.**
-
+![Screenshot 2024-12-29 174016](https://github.com/user-attachments/assets/9894770c-0884-42a1-8845-a532567df7ce)
 
 ## Authors
 
