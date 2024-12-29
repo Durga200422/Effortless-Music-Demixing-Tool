@@ -1,4 +1,6 @@
+# Hi, I'm Narapureddy Durga Prasad Reddy! 👋
 
+This project is a Music Stem Splitter developed using open-source model. The model was selected after rigorous comparison with multiple existing models due to its superior functionalities. The project is implemented as a Streamlit application.
 # Effortless Music Demixing Tool
 
 Effortless Music Demixing Tool is a powerful yet user-friendly application that leverages the open-source Demucs model for music source separation. Designed for musicians, producers, and hobbyists, this tool allows you to separate audio tracks into distinct stems, such as drums, bass, vocals, and others. The application ensures streamlined performance and compatibility across various audio formats.
